@@ -7,7 +7,7 @@ Team members:
 - [Nicolò Ravasio](https://github.com/nicoloravasio)
 - [Gabriele Corti](https://github.com/gabo2002)
 - Edoardo Burchini
-- Davide Collovigh
+- [Davide Collovigh](https://github.com/Dav-11)
 
 ## Challenge 1
 The first challenge consisted of time-series classification on the [Pirate Pain Dataset](https://www.kaggle.com/datasets/raulagolli/the-pirate-pain-dataset). We ranked **1st** on the public leaderboard and **6th** on the private leaderboard out of 193 teams. Thanks to these results and the report's quality, our final score was **5/5**.
